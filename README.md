@@ -1,4 +1,4 @@
-# 🍔 Food Image Classifier with Calorie Estimation
+# Food Image Classifier with Calorie Estimation
 
 This project uses a pretrained deep learning model (MobileNetV2) to identify food items from images and estimate their calorie content. It's designed to help users track their dietary intake by simply uploading a food image.
 
